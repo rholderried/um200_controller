@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/roman/Git/memmert_pcb/PCB/footprints.pretty")(options "")(descr ""))
+  (lib (name "UM200")(type "KiCad")(uri "C:/Users/roman/Git/memmert_pcb/PCB/UM200.pretty")(options "")(descr ""))
+)
