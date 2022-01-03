@@ -1,4 +1,4 @@
-19799133873771215
+19797493123841057
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83705,7 +83705,7 @@ transformer flyback
 0
 10
 10
-UM200
+USER_fp
 TQFP48_PT_MCH
 
 
@@ -84482,10 +84482,3 @@ varistor SIOV
 0
 2
 2
-footprints
-TQFP48_PT_MCH
-
-
-0
-48
-48
