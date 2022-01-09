@@ -236,7 +236,14 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "USER_Cap_0603",
+      "USER_Connectors",
+      "USER_Interface_IC",
+      "USER_Microchip_PIC",
+      "USER_Res_0603",
+      "USER_Res_0805"
+    ]
   },
   "meta": {
     "filename": "memmert_pcb.kicad_pro",
