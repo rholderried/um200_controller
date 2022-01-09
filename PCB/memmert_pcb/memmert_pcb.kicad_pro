@@ -242,7 +242,9 @@
       "USER_Interface_IC",
       "USER_Microchip_PIC",
       "USER_Res_0603",
-      "USER_Res_0805"
+      "USER_Res_0805",
+      "USER_SMPS",
+      "USER_Transformer"
     ]
   },
   "meta": {
