@@ -1,4 +1,4 @@
-19797493123841057
+19799134783217369
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83705,6 +83705,13 @@ transformer flyback
 0
 10
 10
+USER_fp
+ICSP
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
 USER_fp
 TQFP48_PT_MCH
 
