@@ -237,6 +237,7 @@
   "libraries": {
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": [
+      "USER_LDO",
       "USER_Cap_0603",
       "USER_Connectors",
       "USER_Interface_IC",
